@@ -1,0 +1,33 @@
+html {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.title {
+    font-size: 2rem;
+}
+.download {
+    color:aquamarine;
+    font-size: 0.64rem;
+    text-decoration: underline;
+}
+header {
+    width: 100%;
+    
+}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+.quote {
+    color: gray;
+    font-size: 0.7rem;
+}
+.copyright {
+    color:gray;
+    font-size:0.7rem;
+    align-self: right;
+    float: right;
+}

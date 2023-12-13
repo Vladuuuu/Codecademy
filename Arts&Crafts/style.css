@@ -1,0 +1,32 @@
+.body {
+
+}
+.titlu {
+    background-image: url('imag1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: 70px;
+    text-align: center;
+    color: yellow
+}
+.subtitle {
+    font-size: 35px;
+    font-family: times;
+    color:white;
+}
+.brushes {
+    background-color:lightgreen;
+}
+.frames {
+    background-color:lightcoral;
+}
+.paint {
+    background-color:lightblue;
+}
+.price {
+    font-weight: bold;
+    color: blue;
+}
